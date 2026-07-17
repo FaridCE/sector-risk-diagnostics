@@ -14,7 +14,7 @@ Dynamic eigenmode decomposition and systemic risk analysis of AAPL, NVDA, TSLA, 
 ## Key findings
 
 - Strong PC1 dominance → sector behaves like one asset
-- Negative correlation between concentration C(t) and residual dispersion (ρ ≈ -0.13)
+- Negative correlation between concentration C(t) and residual dispersion
 - Narrow & steep efficient frontier confirms limited diversification
 
 ## Main files
